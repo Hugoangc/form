@@ -1,3 +1,15 @@
+> [!WARNING]
+> ⚠️ **Repositório Arquivado**
+>
+> Este projeto foi um **protótipo inicial** e serviu como base de estudo. O desenvolvimento ativo e a versão definitiva foram movidos para repositórios dedicados com uma arquitetura de microsserviços:
+>
+> *  **Novo Backend (Spring Boot):** [github.com/hugoangc/localiza_back](https://github.com/hugoangc/localiza_back)
+> *  **Novo Frontend (Angular):** [github.com/hugoangc/localiza_front](https://github.com/hugoangc/localiza_front)
+>
+> *Este repositório está mantido apenas para fins históricos e não está mais em desenvolvimento.*
+>
+> ---
+
 # Interface de Gerenciamento de Frotas (Angular Frontend)
 
 Este é o repositório do frontend para a aplicação de gerenciamento de frotas. Esta é uma Single Page Application (SPA) construída com **Angular 17+** (usando componentes Standalone) e estilizada com MDBootstrap e NG-Bootstrap.
